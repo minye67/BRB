@@ -46,7 +46,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 - Categories: Maintenance, IT Support, Housekeeping, Food, Security, Other
 - Priority levels: Low, Medium, High
 - Status tracking: Open → In Progress → Resolved → Closed
-- Resolution notes for closed complaints
+- Resolution notes for the closed complaints
 
 ### 🏷️ Visitor Records
 - Register visitors with check-in/check-out
