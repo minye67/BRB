@@ -25,7 +25,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 - Room cards with status (Available / Occupied / Maintenance)
 - Floor-wise organization (Standard, Deluxe, Premium)
 - View room details with current occupants
-- Automatic status updates when students are assigned/removed
+- Automatic status updates when the students are assigned/removed
 
 ### 👥 Student Details
 - Full CRUD for student records
